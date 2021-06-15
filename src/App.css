@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+.main {
+  margin: 10% 30px 30px 30px;
+}
+
+.main p{
+  font-size:60px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.fooditem{
+  margin: 5% 20%;
+}
+
+.fooditem .card{
+  justify-content: left;
+  width: 250px;
+  margin: 5px;
+  padding: 0;
+}
+
+.fooditem .card img {
+  height: 200px;
+}
+
+.fooditem .card .card-body{
+  text-align: left;
+  height: 220px;
+}
+
+.fooditem .card .card-body button{
+  margin: 2px;
+  width: 40px;
+  height: 30px;
+  padding: 0;
+}
+.login{
+  justify-content: center;
+  margin: 10% 20%;
+}
+
+.login form {
+  justify-content: center;
+  margin:40px;
+  width: 200px;
+}
+.login{
+    justify-content: center;
+    margin: 10% 20%;
+  }
+  
+  .login form {
+    justify-content: center;
+    margin:40px;
+    width: 200px;
+  }
+  
